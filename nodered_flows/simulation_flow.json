@@ -1,0 +1,19 @@
+[
+    {
+        "id": "2d23a81229e7fb26",
+        "type": "file",
+        "z": "aef79ad1085fba1c",
+        "name": "",
+        "filename": "B:\\PBCS\\VI Sem\\Machine Learning\\MiniProject\\smartflow-energy-optimizer\\data\\raw\\simulated_sensor_data.csv",
+        "filenameType": "str",
+        "appendNewline": true,
+        "createDir": false,
+        "overwriteFile": "false",
+        "encoding": "none",
+        "x": 940,
+        "y": 100,
+        "wires": [
+            []
+        ]
+    }
+]
